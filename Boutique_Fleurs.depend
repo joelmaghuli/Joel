@@ -1,0 +1,59 @@
+# depslib dependency file v1.0
+1630830996 source:c:\users\joema\desktop\exam_c++_banque\main.cpp
+	<iostream>
+	<string>
+	"Client_banque.h"
+	"fleurs.h"
+	<stdlib.h>
+
+1630353102 c:\users\joema\desktop\exam_c++_banque\include\client_banque.h
+	<string>
+	<iostream>
+	<stdlib.h>
+
+1630342697 source:c:\users\joema\desktop\exam_c++_banque\src\client_banque.cpp
+	<iostream>
+	"Client_banque.h"
+	<string>
+
+1630617195 source:c:\users\joema\desktop\exam_c++_banque\fleurs.cpp
+	<iostream>
+	"fleurs.h"
+	<string>
+
+1630617195 c:\users\joema\desktop\exam_c++_banque\fleurs.h
+	<string>
+	<iostream>
+	<stdlib.h>
+
+1630617195 source:c:\users\joema\desktop\boutique_fleurs\fleurs.cpp
+	<iostream>
+	"fleurs.h"
+	<string>
+
+1630617195 c:\users\joema\desktop\boutique_fleurs\fleurs.h
+	<string>
+	<iostream>
+	<stdlib.h>
+
+1630869241 source:c:\users\joema\desktop\boutique_fleurs\main.cpp
+	<iostream>
+	<string>
+	"Users.h"
+	"fleurs.h"
+	<stdlib.h>
+
+1630833364 c:\users\joema\desktop\boutique_fleurs\users.h
+	<string>
+	<iostream>
+	<stdlib.h>
+
+1630833511 source:c:\users\joema\desktop\boutique_fleurs\users.cpp
+	<iostream>
+	"Users.h"
+	<string>
+
+1630833936 source:c:\users\joema\desktop\boutique_fleurs\src\client_banque.cpp
+	<iostream>
+	<string>
+
